@@ -1,16 +1,65 @@
-# React + Vite
+# 🛒 Blinkit - Grocery Delivery Homepage Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive **Blinkit Homepage Clone** built using React.js and Vite. This project recreates the look and feel of Blinkit's online grocery shopping platform with a clean UI and modern design.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🏠 Blinkit-inspired homepage design.
+- 🛍️ Product listing sections.
+- 🥦 Grocery and daily essentials categories.
+- 🔍 Search bar UI.
+- 🎨 Clean and attractive user interface.
+- 📱 Responsive layout for different screen sizes.
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript
+- HTML5
+- CSS3
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Follow these steps to run the project locally:
+
+**1. Clone the repository**
+
+```bash
+git clone https://github.com/himani6070-tech/blinkit.git
+```
+
+**2. Navigate to the project folder**
+
+```bash
+cd blinkit
+```
+
+**3. Install dependencies**
+
+```bash
+npm install
+```
+
+**4. Start the development server**
+
+```bash
+npm run dev
+```
+
+**5. Open the local URL in your browser.**
+
+## 🎯 Project Purpose
+
+This project was created to practice React.js, improve frontend development skills, and gain hands-on experience in recreating a real-world e-commerce homepage.
+
+## 👩‍💻 Author
+
+**Himani Bisht**
+
+- GitHub: [@himani6070-tech](https://github.com/himani6070-tech)
+
+---
+
+⭐ If you like this project, feel free to give it a star!
+
